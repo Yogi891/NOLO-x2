@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics
+END
+Color.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Color.cs
+END
+Shape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Shape.cs
+END
+Drawable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Drawable.cs
+END
+Image.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Image.cs
+END
+PostFx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/PostFx.cs
+END
+Vector2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Vector2.cs
+END
+Context.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Context.cs
+END
+Font.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Font.cs
+END
+Sprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Sprite.cs
+END
+RenderWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/RenderWindow.cs
+END
+sfml-graphics.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/sfml-graphics.csproj
+END
+View.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/View.cs
+END
+String2D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/String2D.cs
+END
+Rect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/src/Graphics/Rect.cs
+END

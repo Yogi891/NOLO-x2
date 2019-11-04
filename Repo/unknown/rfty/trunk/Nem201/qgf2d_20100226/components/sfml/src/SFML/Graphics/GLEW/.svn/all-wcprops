@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GLEW
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GLEW/glew.h
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GLEW/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GLEW/glxew.h
+END
+glew.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GLEW/glew.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window
+END
+Window.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/Window.hpp
+END
+WindowStyle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/WindowStyle.hpp
+END
+WindowSettings.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/WindowSettings.hpp
+END
+VideoMode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/VideoMode.hpp
+END
+WindowListener.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/WindowListener.hpp
+END
+Input.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/Input.hpp
+END
+Event.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/Event.hpp
+END
+WindowHandle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/WindowHandle.hpp
+END
+OpenGL.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/OpenGL.hpp
+END
+Context.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window/Context.hpp
+END

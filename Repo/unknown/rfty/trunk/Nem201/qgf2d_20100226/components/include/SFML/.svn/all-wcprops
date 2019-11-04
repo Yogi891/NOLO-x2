@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML
+END
+Window.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Window.hpp
+END
+Network.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Network.hpp
+END
+Graphics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Graphics.hpp
+END
+Audio.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Audio.hpp
+END
+System.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System.hpp
+END
+Config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/Config.hpp
+END

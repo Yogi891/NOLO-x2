@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include
+END
+box2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/box2d.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/lua.h
+END
+sndfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/sndfile.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/luaconf.h
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/ft2build.h
+END

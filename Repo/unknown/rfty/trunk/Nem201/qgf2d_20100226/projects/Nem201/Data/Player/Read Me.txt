@@ -1,0 +1,9 @@
+For Player text documents, the formatting cannot be change or it will not long function.If one becomes broken or currput replace with the template.
+
+Data for starting location is stored as x then y, max is 10 less then the max screen size.
+
+Data for velocity is stored as x then y, this is so the player may be able to move faster left and right than up and down.
+
+Fire rate relates to how long it waits before the ship can shoot another normal bullet.
+
+Bullet life time is how long a bullet lives if it doesnt hit anything, a low life time can mean they do not reach the end of the screen.

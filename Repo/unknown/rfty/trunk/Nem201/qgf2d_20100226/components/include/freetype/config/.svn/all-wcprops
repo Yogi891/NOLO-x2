@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/config/ftstdlib.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/config/ftmodule.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/config/ftconfig.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/config/ftoption.h
+END

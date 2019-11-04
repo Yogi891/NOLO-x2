@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal
+END
+svpostnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svpostnm.h
+END
+ftvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftvalid.h
+END
+autohint.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/autohint.h
+END
+ftcalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftcalc.h
+END
+svpscmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svpscmap.h
+END
+svotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svotval.h
+END
+psaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/psaux.h
+END
+svpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svpfr.h
+END
+svttcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svttcmap.h
+END
+ftgloadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftgloadr.h
+END
+t1types.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/t1types.h
+END
+sfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/sfnt.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/internal.h
+END
+ftrfork.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftrfork.h
+END
+svsfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svsfnt.h
+END
+ftstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftstream.h
+END
+ftdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftdriver.h
+END
+ftobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftobjs.h
+END
+pshints.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/pshints.h
+END
+fttrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/fttrace.h
+END
+pcftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/pcftypes.h
+END
+svxf86nm.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svxf86nm.h
+END
+ftmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftmemory.h
+END
+svbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svbdf.h
+END
+svpsinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svpsinfo.h
+END
+ftserv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftserv.h
+END
+tttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/tttypes.h
+END
+svwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svwinfnt.h
+END
+svgldict.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svgldict.h
+END
+ftdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/ftdebug.h
+END
+svmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/internal/svmm.h
+END

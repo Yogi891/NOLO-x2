@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftimage.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftsystem.h
+END
+ftotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftotval.h
+END
+ftpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftpfr.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftbbox.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftxf86.h
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftoutln.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/fttrigon.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftcache.h
+END
+ttunpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ttunpat.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftsynth.h
+END
+ftstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftstroke.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftchapters.h
+END
+ftmodapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftmodapi.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftlist.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/tttags.h
+END
+ftbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftbitmap.h
+END
+ftlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftlzw.h
+END
+ftincrem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftincrem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftrender.h
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ft2build.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftglyph.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/t1tables.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftsnames.h
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/tttables.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftmoderr.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/freetype.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftbdf.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftsizes.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/fttypes.h
+END
+ftwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftwinfnt.h
+END
+ftsysio.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftsysio.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/fterrdef.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftmm.h
+END
+ftgzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftgzip.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ttnameid.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/fterrors.h
+END
+ftsysmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/ftsysmem.h
+END

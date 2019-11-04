@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<!DOCTYPE bulletml SYSTEM "http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletml.dtd">
+
+<bulletml type="horizontal"
+xmlns="http://www.asahi-net.or.jp/~cs8k-cyu/bulletml">
+
+<action label="top">
+<action>
+<fire>
+<direction type="absolute">270</direction>
+<bulletRef label="seed"/>
+</fire>
+</action>
+<wait>60</wait>
+</action>
+
+<bullet label="seed">
+<speed>0.5</speed>
+<action>
+<repeat><times>4</times>
+<actionRef label="wave"/>
+</repeat>
+</action>
+</bullet>
+
+<action label="wave">
+<changeDirection>
+<direction type="absolute">315</direction>
+<term>30</term>
+</changeDirection>
+<repeat><times>2</times>
+<actionRef label="shoot"/>
+</repeat>
+<changeDirection>
+<direction type="absolute">225</direction>
+<term>30</term>
+</changeDirection>
+<repeat><times>2</times>
+<actionRef label="shoot"/>
+</repeat>
+</action>
+
+<action label="shoot">
+<wait>60</wait>
+<fire>
+<direction type="aim">0</direction>
+<bulletRef label="aim"/>
+</fire>
+</action>
+
+<bullet label="aim">
+<speed>1.2</speed>
+</bullet>
+
+</bulletml>

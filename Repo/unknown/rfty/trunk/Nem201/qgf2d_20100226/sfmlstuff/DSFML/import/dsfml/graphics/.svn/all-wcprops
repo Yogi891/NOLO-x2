@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics
+END
+rect.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/rect.d
+END
+shape.d
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/shape.d
+END
+drawableimpl.d
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/drawableimpl.d
+END
+textstyle.d
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/textstyle.d
+END
+sprite.d
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/sprite.d
+END
+font.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/font.d
+END
+string.d
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/string.d
+END
+renderwindow.d
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/renderwindow.d
+END
+all.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/all.d
+END
+view.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/view.d
+END
+color.d
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/color.d
+END
+image.d
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/image.d
+END
+postfx.d
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/postfx.d
+END
+blendmode.d
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/blendmode.d
+END
+idrawable.d
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/graphics/idrawable.d
+END

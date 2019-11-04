@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System
+END
+Thread.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Thread.hpp
+END
+Sleep.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Sleep.hpp
+END
+ResourcePtr.inl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/ResourcePtr.inl
+END
+NonCopyable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/NonCopyable.hpp
+END
+Randomizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Randomizer.hpp
+END
+Vector2.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Vector2.inl
+END
+Vector3.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Vector3.inl
+END
+Unicode.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Unicode.inl
+END
+Resource.inl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Resource.inl
+END
+Vector2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Vector2.hpp
+END
+Vector3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Vector3.hpp
+END
+Unicode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Unicode.hpp
+END
+Resource.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Resource.hpp
+END
+Lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Lock.hpp
+END
+Clock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Clock.hpp
+END
+Mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/SFML/System/Mutex.hpp
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio
+END
+OpenAL.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/OpenAL.hpp
+END
+SoundFileOgg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundFileOgg.cpp
+END
+Listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/Listener.cpp
+END
+AudioDevice.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/AudioDevice.hpp
+END
+SoundFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundFile.cpp
+END
+Sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/Sound.cpp
+END
+SoundFileOgg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundFileOgg.hpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/Makefile
+END
+SoundFile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundFile.hpp
+END
+SoundFileDefault.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundFileDefault.cpp
+END
+SoundFileDefault.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundFileDefault.hpp
+END
+SoundStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundStream.cpp
+END
+SoundBufferRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundBufferRecorder.cpp
+END
+AudioResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/AudioResource.cpp
+END
+SoundRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundRecorder.cpp
+END
+Music.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/Music.cpp
+END
+AudioDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/AudioDevice.cpp
+END
+SoundBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Audio/SoundBuffer.cpp
+END

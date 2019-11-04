@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL
+END
+SOIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/SOIL.h
+END
+stb_image_aug.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/stb_image_aug.h
+END
+stbi_DDS_aug.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/stbi_DDS_aug.h
+END
+stbi_DDS_aug_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/stbi_DDS_aug_c.h
+END
+image_DXT.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/image_DXT.c
+END
+image_DXT.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/image_DXT.h
+END
+stb_image_aug.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/stb_image_aug.c
+END
+SOIL.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/SOIL/SOIL.c
+END

@@ -1,0 +1,62 @@
+// <---- Use this on every line for commenting
+// Attributes need to strictly stay on the left and
+//  tabs must be used to seperate the values
+
+
+// Game Specific Attributes ---------------------------------------------------------------
+
+//Player ship data
+
+//All Round Ship
+// Moving 
+R_START_X_POS				400	
+R_START_Y_POS				300
+R_X_VEL						400
+R_Y_VEL						600
+
+// Weaponry
+R_FIRE_RATE					5
+R_BULLET_LIFE				5
+R_ANGLE						0.08
+
+//Attack Ship
+// Moving 
+A_START_X_POS				400	
+A_START_Y_POS				300
+A_X_VEL						400
+A_Y_VEL						600
+
+// Weaponry
+A_FIRE_RATE					2
+A_BULLET_LIFE				5
+A_ANGLE						0.06
+
+//Defence Ship
+// Moving 
+D_START_X_POS				400	
+D_START_Y_POS				300
+D_X_VEL						400
+D_Y_VEL						600
+
+// Weaponry
+D_FIRE_RATE					10
+D_BULLET_LIFE				2
+D_ANGLE						0.1
+
+//Background data
+
+// Scenery
+BG_SCROLL_RATE				100
+FG_SCROLL_RATE				300
+
+NUM_BG_SEG					30
+NUM_FG_SEG					30
+
+UPGRADE_X_VEL				100
+UPGRADE_Y_VEL				100
+
+//Bullet Count
+MAX_BULLETS					1000
+P_BASIC_BULLET_SPEED		2000
+
+// Animation attributes ---------------------------------------------------------------------

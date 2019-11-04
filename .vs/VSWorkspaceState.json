@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NoloDeviceSDK-master",
+    "\\NoloDeviceSDK-master\\HmdDriver1_0_13Sample",
+    "\\NoloDeviceSDK-master\\HmdDriver1_0_13Sample\\HmdDriver1_0_13Sample",
+    "\\NoloDeviceSDK-master\\HmdDriver1_0_13Sample\\HmdDriver1_0_13Sample\\driver_Sample",
+    "\\NoloDeviceSDK-master\\NoloClient",
+    "\\NoloDeviceSDK-master\\NoloClient\\CSharpHeaderExample",
+    "\\Repo",
+    "\\Repo\\unknown\\rfty",
+    "\\Repo\\unknown\\rfty\\.svn",
+    "\\Repo\\unknown\\rfty\\.svn\\tmp",
+    "\\Repo\\unknown\\rfty\\.svn\\tmp\\prop-base",
+    "\\Repo\\unknown\\rfty\\.svn\\tmp\\props",
+    "\\Repo\\ValveSoftware\\openvr",
+    "\\Repo\\ValveSoftware\\openvr\\src",
+    "\\Repo\\ValveSoftware\\openvr\\src\\json"
+  ],
+  "SelectedNode": "\\NoloDeviceSDK-master\\HmdDriver1_0_13Sample\\HmdDriver1_0_13Sample\\driver_Sample\\driver_huaweinolo.vcxproj",
+  "PreviewInSolutionExplorer": false
+}

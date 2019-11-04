@@ -1,0 +1,2 @@
+the renderer has the main game loop makes the calls to state manager,
+the states make thier draw calls to renderer

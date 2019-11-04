@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache
+END
+ftccmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftccmap.h
+END
+ftcimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftcimage.h
+END
+ftccache.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftccache.h
+END
+ftcmru.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftcmru.h
+END
+ftcmanag.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftcmanag.h
+END
+ftcglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftcglyph.h
+END
+ftcsbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/include/freetype/cache/ftcsbits.h
+END

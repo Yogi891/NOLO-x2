@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Win32
+END
+Mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Win32/Mutex.cpp
+END
+Platform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Win32/Platform.cpp
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Win32/Thread.cpp
+END
+Platform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Win32/Platform.hpp
+END

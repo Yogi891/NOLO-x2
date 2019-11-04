@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML
+END
+sfString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfString.cpp
+END
+sfSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfSprite.cpp
+END
+sfWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfWindow.cpp
+END
+sfRenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfRenderWindow.cpp
+END
+sfIntRect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfIntRect.cpp
+END
+sfSoundBufferRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfSoundBufferRecorder.cpp
+END
+sfView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfView.cpp
+END
+RubySFML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/RubySFML.cpp
+END
+sfVideoMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfVideoMode.cpp
+END
+sfColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfColor.cpp
+END
+RubySFML.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/RubySFML.h
+END
+sfMusic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfMusic.cpp
+END
+sfDrawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfDrawable.cpp
+END
+sfEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfEvent.cpp
+END
+sfSoundBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfSoundBuffer.cpp
+END
+sfImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfImage.cpp
+END
+sfPostFX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfPostFX.cpp
+END
+sfFloatRect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfFloatRect.cpp
+END
+sfSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfSound.cpp
+END
+extconf-win.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/extconf-win.rb
+END
+RubySFML.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/RubySFML.rb
+END
+extconf-linux.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/extconf-linux.rb
+END
+sfClock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfClock.cpp
+END
+ruby_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/ruby_helper.h
+END
+sfInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/ruby/RubySFML/sfInput.cpp
+END

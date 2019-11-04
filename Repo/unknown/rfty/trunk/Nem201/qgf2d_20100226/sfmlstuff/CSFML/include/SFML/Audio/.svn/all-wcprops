@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio
+END
+SoundBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/SoundBuffer.h
+END
+SoundStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/SoundStream.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/Types.h
+END
+Listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/Listener.h
+END
+SoundBufferRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/SoundBufferRecorder.h
+END
+Sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/Sound.h
+END
+SoundStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/SoundStatus.h
+END
+SoundRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/SoundRecorder.h
+END
+Music.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Audio/Music.h
+END

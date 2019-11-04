@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngwutil.c
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngmem.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngget.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/png.c
+END
+pnggccrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pnggccrd.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/png.h
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngrtran.c
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngtrans.c
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngerror.c
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngrio.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngconf.h
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngwrite.c
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngpread.c
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngwtran.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngset.c
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngwio.c
+END
+pngvcrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngvcrd.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libpng/pngrutil.c
+END

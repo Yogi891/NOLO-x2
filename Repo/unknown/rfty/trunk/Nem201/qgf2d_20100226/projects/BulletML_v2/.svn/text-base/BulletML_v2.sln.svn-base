@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BulletML_v2", "BulletML_v2\BulletML_v2.vcproj", "{095E0FFA-2638-40A8-B31D-6ED1230FFBBE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestBulletML_v2", "TestBulletML_v2\TestBulletML_v2.vcproj", "{3148673A-9AC9-4915-92F3-59F84AF8BEBD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{095E0FFA-2638-40A8-B31D-6ED1230FFBBE} = {095E0FFA-2638-40A8-B31D-6ED1230FFBBE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095E0FFA-2638-40A8-B31D-6ED1230FFBBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{095E0FFA-2638-40A8-B31D-6ED1230FFBBE}.Debug|Win32.Build.0 = Debug|Win32
+		{095E0FFA-2638-40A8-B31D-6ED1230FFBBE}.Release|Win32.ActiveCfg = Release|Win32
+		{095E0FFA-2638-40A8-B31D-6ED1230FFBBE}.Release|Win32.Build.0 = Release|Win32
+		{3148673A-9AC9-4915-92F3-59F84AF8BEBD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3148673A-9AC9-4915-92F3-59F84AF8BEBD}.Debug|Win32.Build.0 = Debug|Win32
+		{3148673A-9AC9-4915-92F3-59F84AF8BEBD}.Release|Win32.ActiveCfg = Release|Win32
+		{3148673A-9AC9-4915-92F3-59F84AF8BEBD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

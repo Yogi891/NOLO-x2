@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/extlibs
+END
+libsndfile-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/extlibs/libsndfile-1.dll
+END
+csfml-window.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/extlibs/csfml-window.dll
+END
+csfml-graphics.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/extlibs/csfml-graphics.dll
+END
+openal32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/extlibs/openal32.dll
+END
+csfml-audio.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/dotnet/extlibs/csfml-audio.dll
+END

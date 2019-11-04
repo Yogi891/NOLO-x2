@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system
+END
+alloc.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/alloc.d
+END
+clock.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/clock.d
+END
+exception.d
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/exception.d
+END
+dllloader.d
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/dllloader.d
+END
+mutex.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/mutex.d
+END
+linkedlist.d
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/linkedlist.d
+END
+stringutil.d
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/stringutil.d
+END
+thread.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/thread.d
+END
+sleep.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/sleep.d
+END
+all.d
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/all.d
+END
+randomizer.d
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/randomizer.d
+END
+vector2.d
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/vector2.d
+END
+vector3.d
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/vector3.d
+END
+common.d
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/common.d
+END
+lock.d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/DSFML/import/dsfml/system/lock.d
+END

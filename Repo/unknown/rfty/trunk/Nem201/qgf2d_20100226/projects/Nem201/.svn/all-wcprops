@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201
+END
+Menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/44/trunk/Nem201/qgf2d_20100226/projects/Nem201/Menu.h
+END
+Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/Nem201/qgf2d_20100226/projects/Nem201/Renderer.h
+END
+Protobullet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Protobullet.cpp
+END
+project notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/project%20notes.txt
+END
+BML_Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BML_Test.h
+END
+BEnemy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BEnemy.cpp
+END
+State.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/State.cpp
+END
+Nem201.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/Nem201.ncb
+END
+Nem201.vcproj.JESSICA.Josh.user
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/Nem201.vcproj.JESSICA.Josh.user
+END
+Enemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Enemy.h
+END
+BackGround.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/24/trunk/Nem201/qgf2d_20100226/projects/Nem201/BackGround.h
+END
+GUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/52/trunk/Nem201/qgf2d_20100226/projects/Nem201/GUI.cpp
+END
+Resman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/25/trunk/Nem201/qgf2d_20100226/projects/Nem201/Resman.cpp
+END
+CreditMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/44/trunk/Nem201/qgf2d_20100226/projects/Nem201/CreditMgr.h
+END
+Timeattack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Timeattack.cpp
+END
+StateMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/52/trunk/Nem201/qgf2d_20100226/projects/Nem201/StateMgr.cpp
+END
+Upgrade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Upgrade.cpp
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13/trunk/Nem201/qgf2d_20100226/projects/Nem201/Sphere.h
+END
+Test_Bullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Test_Bullet.h
+END
+Collision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Collision.cpp
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Player.cpp
+END
+Bullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/Nem201/qgf2d_20100226/projects/Nem201/Bullet.h
+END
+BasicBullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/43/trunk/Nem201/qgf2d_20100226/projects/Nem201/BasicBullet.h
+END
+BullMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BullMan.h
+END
+PlayerSelect.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/Nem201/qgf2d_20100226/projects/Nem201/PlayerSelect.h
+END
+CircleCol.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/CircleCol.h
+END
+Nem201.vcproj.Josh-PC.Josh.user
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/Nem201.vcproj.Josh-PC.Josh.user
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/Nem201/qgf2d_20100226/projects/Nem201/GameConfig.h
+END
+Menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/44/trunk/Nem201/qgf2d_20100226/projects/Nem201/Menu.cpp
+END
+Renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/Nem201/qgf2d_20100226/projects/Nem201/Renderer.cpp
+END
+BML_Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BML_Test.cpp
+END
+Enemy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/52/trunk/Nem201/qgf2d_20100226/projects/Nem201/Enemy.cpp
+END
+BackGround.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/52/trunk/Nem201/qgf2d_20100226/projects/Nem201/BackGround.cpp
+END
+CreditMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/44/trunk/Nem201/qgf2d_20100226/projects/Nem201/CreditMgr.cpp
+END
+Protobullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Protobullet.h
+END
+Nem201.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Nem201.vcproj
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Main.cpp
+END
+BEnemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BEnemy.h
+END
+State.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/44/trunk/Nem201/qgf2d_20100226/projects/Nem201/State.h
+END
+Test_Bullet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Test_Bullet.cpp
+END
+Nem201.suo
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/Nem201.suo
+END
+Bullet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/Bullet.cpp
+END
+GUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52/trunk/Nem201/qgf2d_20100226/projects/Nem201/GUI.h
+END
+BasicBullet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BasicBullet.cpp
+END
+BullMan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/BullMan.cpp
+END
+Resman.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/Nem201/qgf2d_20100226/projects/Nem201/Resman.h
+END
+StateMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/Nem201/qgf2d_20100226/projects/Nem201/StateMgr.h
+END
+Timeattack.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Timeattack.h
+END
+Upgrade.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Upgrade.h
+END
+PlayerSelect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/Nem201/qgf2d_20100226/projects/Nem201/PlayerSelect.cpp
+END
+Nem201.vcproj.QANTM.jlarsen1.user
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/projects/Nem201/Nem201.vcproj.QANTM.jlarsen1.user
+END
+GameConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14/trunk/Nem201/qgf2d_20100226/projects/Nem201/GameConfig.cpp
+END
+Collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Collision.h
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53/trunk/Nem201/qgf2d_20100226/projects/Nem201/Player.h
+END
+Circle.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29/trunk/Nem201/qgf2d_20100226/projects/Nem201/Circle.h
+END

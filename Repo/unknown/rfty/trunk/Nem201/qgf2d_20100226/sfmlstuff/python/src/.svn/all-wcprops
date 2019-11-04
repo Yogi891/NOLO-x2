@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src
+END
+Music.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Music.hpp
+END
+Event.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Event.hpp
+END
+Key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Key.cpp
+END
+Glyph.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Glyph.hpp
+END
+Clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Clock.cpp
+END
+Mouse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Mouse.hpp
+END
+WindowStyle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/WindowStyle.hpp
+END
+Joy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Joy.cpp
+END
+String.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/String.cpp
+END
+SoundStream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundStream.hpp
+END
+Font.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Font.hpp
+END
+VideoMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/VideoMode.cpp
+END
+Sprite.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Sprite.hpp
+END
+SoundBufferRecorder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundBufferRecorder.hpp
+END
+Sleep.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Sleep.hpp
+END
+SoundRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundRecorder.cpp
+END
+Drawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Drawable.cpp
+END
+PostFX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/PostFX.cpp
+END
+Image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Image.hpp
+END
+SoundBuffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundBuffer.hpp
+END
+compat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/compat.hpp
+END
+Sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Sound.cpp
+END
+Blend.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Blend.hpp
+END
+main.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/main.hpp
+END
+Listener.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Listener.hpp
+END
+WindowSettings.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/WindowSettings.hpp
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Shape.cpp
+END
+Rect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Rect.hpp
+END
+Input.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Input.hpp
+END
+View.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/View.cpp
+END
+RenderWindow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/RenderWindow.hpp
+END
+Window.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Window.hpp
+END
+offsetof.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/offsetof.hpp
+END
+Music.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Music.cpp
+END
+Event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Event.cpp
+END
+Glyph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Glyph.cpp
+END
+Color.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Color.hpp
+END
+WindowStyle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/WindowStyle.cpp
+END
+Mouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Mouse.cpp
+END
+Key.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Key.hpp
+END
+Clock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Clock.hpp
+END
+SoundStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundStream.cpp
+END
+Sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Sprite.cpp
+END
+Joy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Joy.hpp
+END
+Font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Font.cpp
+END
+SoundBufferRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundBufferRecorder.cpp
+END
+Sleep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Sleep.cpp
+END
+String.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/String.hpp
+END
+VideoMode.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/VideoMode.hpp
+END
+SoundBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundBuffer.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Image.cpp
+END
+SoundRecorder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/SoundRecorder.hpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/main.cpp
+END
+Blend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Blend.cpp
+END
+Listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Listener.cpp
+END
+Drawable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Drawable.hpp
+END
+PostFX.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/PostFX.hpp
+END
+WindowSettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/WindowSettings.cpp
+END
+Rect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Rect.cpp
+END
+Sound.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Sound.hpp
+END
+Input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Input.cpp
+END
+Shape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Shape.hpp
+END
+Window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Window.cpp
+END
+RenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/RenderWindow.cpp
+END
+Color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/Color.cpp
+END
+View.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/python/src/View.hpp
+END

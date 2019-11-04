@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 30
+Debug
+bin
+qgf2d.ncb
+qgf2d.suo
+
+END

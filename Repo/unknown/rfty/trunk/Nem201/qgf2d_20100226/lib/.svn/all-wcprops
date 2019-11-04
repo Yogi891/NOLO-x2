@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/47/trunk/Nem201/qgf2d_20100226/lib
+END
+sfml-graphics-s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/47/trunk/Nem201/qgf2d_20100226/lib/sfml-graphics-s.lib
+END
+sfml-graphics.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-graphics.lib
+END
+sfml-audio.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-audio.lib
+END
+sfml-audio-s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/sfml-audio-s.lib
+END
+sfml-system-s-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/sfml-system-s-d.lib
+END
+sfml-system-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-system-d.lib
+END
+sfml-system.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-system.exp
+END
+sfml-window-d.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-window-d.exp
+END
+bulletml.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/39/trunk/Nem201/qgf2d_20100226/lib/bulletml.lib
+END
+qgf2dutil-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/qgf2dutil-d.lib
+END
+sfml-system-s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/Nem201/qgf2d_20100226/lib/sfml-system-s.lib
+END
+sfml-system.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-system.lib
+END
+sndfile.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sndfile.lib
+END
+sfml-window-s-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/sfml-window-s-d.lib
+END
+sfml-window-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-window-d.lib
+END
+sfml-window.exp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-window.exp
+END
+Box2D-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/Box2D-d.lib
+END
+sfml-network-d.exp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-network-d.exp
+END
+qgf2dutil.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Nem201/qgf2d_20100226/lib/qgf2dutil.lib
+END
+sfml-main-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/sfml-main-d.lib
+END
+sfml-window.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-window.lib
+END
+sfml-graphics-d.exp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-graphics-d.exp
+END
+sfml-window-s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/trunk/Nem201/qgf2d_20100226/lib/sfml-window-s.lib
+END
+sfml-audio-d.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-audio-d.exp
+END
+sfml-network-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-network-d.lib
+END
+sfml-network-s-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/sfml-network-s-d.lib
+END
+sfml-network.exp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-network.exp
+END
+Box2D.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/Nem201/qgf2d_20100226/lib/Box2D.lib
+END
+sfml-graphics-s-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/47/trunk/Nem201/qgf2d_20100226/lib/sfml-graphics-s-d.lib
+END
+sfml-graphics-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-graphics-d.lib
+END
+sfml-audio-s-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/Nem201/qgf2d_20100226/lib/sfml-audio-s-d.lib
+END
+sfml-audio-d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-audio-d.lib
+END
+freetype.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/freetype.lib
+END
+OpenAL32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/OpenAL32.lib
+END
+sfml-main.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/Nem201/qgf2d_20100226/lib/sfml-main.lib
+END
+sfml-graphics.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-graphics.exp
+END
+sfml-audio.exp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-audio.exp
+END
+sfml-network.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-network.lib
+END
+sfml-network-s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/Nem201/qgf2d_20100226/lib/sfml-network-s.lib
+END
+sfml-system-d.exp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/lib/sfml-system-d.exp
+END

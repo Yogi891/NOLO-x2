@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux
+END
+WindowImplX11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux/WindowImplX11.cpp
+END
+Joystick.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux/Joystick.hpp
+END
+WindowImplX11.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux/WindowImplX11.hpp
+END
+VideoModeSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux/VideoModeSupport.cpp
+END
+VideoModeSupport.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux/VideoModeSupport.hpp
+END
+Joystick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Linux/Joystick.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa
+END
+GLKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/GLKit.h
+END
+Joystick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/Joystick.cpp
+END
+GLKit.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/GLKit.mm
+END
+WindowImplCocoa.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/WindowImplCocoa.hpp
+END
+Joystick.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/Joystick.hpp
+END
+WindowImplCocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/WindowImplCocoa.mm
+END
+VideoModeSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/VideoModeSupport.cpp
+END
+AppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/AppController.h
+END
+AppController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/AppController.mm
+END
+VideoModeSupport.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Cocoa/VideoModeSupport.hpp
+END

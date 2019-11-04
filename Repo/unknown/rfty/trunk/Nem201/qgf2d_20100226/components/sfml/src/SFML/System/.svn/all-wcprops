@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System
+END
+Sleep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Sleep.cpp
+END
+Lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Lock.cpp
+END
+Platform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Platform.hpp
+END
+Randomizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Randomizer.cpp
+END
+Clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Clock.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Makefile
+END
+Unicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/System/Unicode.cpp
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics
+END
+GraphicsContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GraphicsContext.cpp
+END
+Font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Font.cpp
+END
+Sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Sprite.cpp
+END
+String.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/String.cpp
+END
+RenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/RenderWindow.cpp
+END
+ImageLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/ImageLoader.cpp
+END
+View.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/View.cpp
+END
+GraphicsContext.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/GraphicsContext.hpp
+END
+ImageLoader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/ImageLoader.hpp
+END
+Color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Color.cpp
+END
+Drawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Drawable.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Image.cpp
+END
+PostFX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/PostFX.cpp
+END
+RenderTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/RenderTarget.cpp
+END
+Matrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Matrix3.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Makefile
+END
+Arial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Arial.hpp
+END
+FontLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/FontLoader.cpp
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/Shape.cpp
+END
+FontLoader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/FontLoader.hpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes
+END
+b2PolygonShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2PolygonShape.h
+END
+b2Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2Shape.cpp
+END
+b2CircleShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2CircleShape.cpp
+END
+b2EdgeShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2EdgeShape.cpp
+END
+b2Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2Shape.h
+END
+b2CircleShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2CircleShape.h
+END
+b2PolygonShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2PolygonShape.cpp
+END
+b2EdgeShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/box2d/Collision/Shapes/b2EdgeShape.h
+END

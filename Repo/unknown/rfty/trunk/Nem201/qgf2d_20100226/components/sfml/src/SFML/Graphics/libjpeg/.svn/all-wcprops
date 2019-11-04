@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdphuff.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jidctred.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdapimin.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jmemsys.h
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdcolor.c
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcdctmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jddctmgr.c
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jerror.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jchuff.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdtrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jmemnobs.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jchuff.h
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdhuff.h
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcinit.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jquant1.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jquant2.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcphuff.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdct.h
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jccolor.c
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdatasrc.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcsample.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jmemmgr.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdsample.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jfdctflt.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcapistd.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jmorecfg.h
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdapistd.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jidctflt.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jversion.h
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jctrans.c
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/cderror.h
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jpegint.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jidctint.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jcprepct.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdmerge.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Graphics/libjpeg/jdinput.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports
+END
+VideoModeSupport.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports/VideoModeSupport.hpp
+END
+Joystick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports/Joystick.cpp
+END
+WindowImplXXX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports/WindowImplXXX.cpp
+END
+Joystick.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports/Joystick.hpp
+END
+WindowImplXXX.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports/WindowImplXXX.hpp
+END
+VideoModeSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/36/trunk/Nem201/qgf2d_20100226/components/sfml/src/SFML/Window/Template%20for%20new%20ports/VideoModeSupport.cpp
+END

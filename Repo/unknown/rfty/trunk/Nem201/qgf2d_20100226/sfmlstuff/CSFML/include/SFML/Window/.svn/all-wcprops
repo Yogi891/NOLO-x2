@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/Event.h
+END
+WindowHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/WindowHandle.h
+END
+Context.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/Context.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/Types.h
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/Window.h
+END
+VideoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/VideoMode.h
+END
+Input.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/Nem201/qgf2d_20100226/sfmlstuff/CSFML/include/SFML/Window/Input.h
+END
